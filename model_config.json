@@ -1,0 +1,8 @@
+{
+    "in_channels": 3,
+    "out_channels": 2,
+    "height_in": 360,
+    "width_in": 360,
+    "height_out": 180,
+    "width_out": 180
+}
